@@ -1,0 +1,3 @@
+[submodule "Plugins/BasicUI"]
+	path = Plugins/BasicUI
+	url = https://github.com/Ji-Rath/BasicUI
