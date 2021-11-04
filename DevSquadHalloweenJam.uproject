@@ -15,8 +15,12 @@
 	],
 	"Plugins": [
 		{
-			"Name": "BasicUI",
-			"Enabled": false
+			"Name": "PythonScriptPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
 		}
 	]
 }
